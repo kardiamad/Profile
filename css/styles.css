@@ -1,0 +1,63 @@
+body {
+    position: relative;
+}
+.bg-off-white {
+    background: #f4f0ef;
+}
+.bg-grey {
+    background: #e2e2e2;
+}
+.bg-light-blue {
+    background: #e4effa;
+}
+.bg-purple {
+    background: #f2eef5;
+}
+.bg-peach {
+    background: #ffe8e8;
+}
+.bg-yellow {
+    background: #fff6dd;
+}
+.app-container {
+    padding: 0px;
+}
+.profile-photo {
+    height: 15rem;
+    width: 15rem;
+}
+.fa-heart {
+    color: #ff0707;
+}
+.contact {
+    color: #a52a2a;
+}
+.unstyled-link {
+    text-decoration: none;
+    color: #000000;
+}
+.pt-6 {
+    padding-top: 4rem !important;
+}
+.pb-1 {
+    padding-bottom: 1rem;
+}
+.card-dimension {
+    height: 25rem;
+    width: 20rem;
+}
+.logo {
+    height: 8rem;
+    width: 16rem
+}
+.humber-logo {
+    height: 12rem;
+    width: 17rem;
+}
+.nsit-logo {
+    height: 12rem;
+    width: 12rem;
+}
+.linkedin {
+    height: 4rem;
+}
